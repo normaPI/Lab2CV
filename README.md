@@ -1,2 +1,2 @@
-# Lab1DAW
-## Primer Laboratorio de Aplicaciones Web: Resume using only html
+# Lab2DAWCV
+## Segundo Laboratorio de Aplicaciones Web: Resume using html and CSS
